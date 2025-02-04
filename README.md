@@ -5,14 +5,14 @@ This project focuses on **Alzheimer's disease classification** using deep learni
 ---
 
 ## 📂 Dataset
-The **Alzheimer MRI dataset** contains MRI scans categorized into different stages of Alzheimer's disease. These images are used to train deep learning models to classify and detect Alzheimer's at various severity levels.
+The **Alzheimer MRI dataset** contains MRI scans categorized into four stages of Alzheimer's disease. These images are used to train deep learning models to classify and detect Alzheimer's at various severity levels.
 
 🔗 **Dataset Source:** [Alzheimer MRI Disease Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/alzheimer-mri-disease-classification-dataset)
 
 ---
 
 ## 🧠 Implemented Deep Learning Models
-The following pre-trained models have been fine-tuned for Alzheimer’s disease classification:
+The following models have been used for Alzheimer’s disease classification:
 
 - ✅ **MobileNetV2** – Lightweight and optimized for mobile devices  
 - ✅ **EfficientNetB2** – Scalable and high-accuracy model  
