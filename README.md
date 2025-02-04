@@ -31,7 +31,6 @@ Each model has been evaluated based on accuracy, loss, and performance metrics.
    - Train-test split for model evaluation  
 
 2. **Model Training**  
-   - Implementing Transfer Learning  
    - Fine-tuning models on the Alzheimer MRI dataset  
 
 3. **Evaluation & Metrics**  
